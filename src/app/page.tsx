@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
    
-      <h1><strong>Politique de confidentialité de Radtrack By Radiant Assistance security</strong></h1>
+      <h1><strong>Politique de confidentialité de Radtrack By Radiant Assistance Security</strong></h1>
     
       <p>Radiant Assistance Security exploite le service de suivi GPS Radtrack. Cette page vous informe de nos politiques concernant la collecte, l'utilisation et la divulgation des données personnelles lorsque vous utilisez notre Service.
       </p> 
